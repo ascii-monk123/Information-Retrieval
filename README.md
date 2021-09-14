@@ -1,2 +1,2 @@
 # Information-Retrieval
-Some work on Academic Course :  CS1759
+Some work done on Academic Course :  CS1759
