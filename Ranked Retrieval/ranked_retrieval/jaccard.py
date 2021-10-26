@@ -17,7 +17,6 @@ __credits__ = [""]
 __license__ = "MIT"
 __version__ = "0.0.0"
 __maintainer__ = "Aahan Singh Charak"
-__email__ = "aahan.189301024@muj.manipal.edu"
 __status__ = ""
 
 class Jaccard:
